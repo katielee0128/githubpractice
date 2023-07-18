@@ -16,6 +16,7 @@ struct ContentView: View {
                 .foregroundColor(Color.pink)
             Text("🌸")
                 .font(.largeTitle)
+            Text("🌺")
         }
         .padding()
     }
