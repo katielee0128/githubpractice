@@ -17,6 +17,8 @@ struct ContentView: View {
             Text("🌸")
                 .font(.largeTitle)
             Text("🌺")
+                .font(.title)
+            
         }
         .padding()
     }
